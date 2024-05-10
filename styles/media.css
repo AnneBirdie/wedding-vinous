@@ -1,0 +1,246 @@
+/*не доделала*/
+
+@media (min-width: 600px) and (max-width:799px){
+    .titles{
+        font-size: 40px;
+    }
+    #scroll_btn{
+        width: 60px;
+        height: 60px;
+        font-size: 30px;
+    }
+    .block_1_top{
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    .block_1_circle{
+        height: 359px;
+        width: 359px;
+    }
+    .block_1_names{
+        font-size: 48px;
+        line-height: 55px;
+    }
+    .block_1_bottom_text{
+        font-size: 30px;
+        margin-top: 5%;
+    }
+    .block_1_bottom_line_1{
+        font-size: 30px;
+    }
+    .block_1_bottom_line_2_left, .block_1_bottom_line_2_right{
+        font-size: 30px;
+    }
+    .block_1_bottom_line_2_center{
+        font-size: 35px;
+    }
+    .block_1_bottom_line_3{
+        font-size: 28px;
+    }
+    .block_2_text{
+        padding-top: 5%;
+        padding-bottom: 5%;
+        margin-top: 30%;
+        margin-bottom: 20%;
+    }
+    .timer__items {
+        margin-top: 5%;
+        font-size: 38px;
+    }
+    .block_2_bottom{
+        font-size: 30px;
+    }
+    #reg_form{
+        width: 80%;
+    }
+    .wrapper{
+        font-size: 25px;
+    }
+    #name{
+        font-size: 25px;
+    }
+    #surname{
+        font-size: 25px;
+    }
+    select{
+        font-size: 25px;
+    }
+    select>option{
+        font-size: 25px;
+    }
+    .form-row > button {
+        font-size: 25px;
+    }
+    #comment{
+        font-size: 25px;
+    }
+    .form-checkbox{
+        font-size: 25px;
+    }
+    .checkbox.style-f .checkbox__checkmark {
+        height: 20px;
+        width: 20px;
+    }
+    .checkbox.style-f .checkbox__checkmark:after {
+        height: 20px;
+        width: 20px;
+    }
+    .checkbox.style-f .checkbox__body {
+        font-size: 20px;
+    }
+    #block_questions{
+        width: 80%;
+    }
+    .question{
+        font-size: 28px;
+    }
+    .answer{
+        font-size: 20px;
+    }
+    .question img{
+        width: 30px;
+    }
+    .color{
+        width: 80px;
+        height: 80px;
+    }
+    .occasion{
+        font-size: 30px;
+    }
+    .block_5_img img{
+        width: 180px;
+    }
+    .place{
+        font-size: 25px;
+    }
+    .block_5_title{
+        font-size: 32px;
+    }
+}
+
+
+
+@media (min-width: 800px){
+    .titles{
+        font-size: 48px;
+    }
+    #scroll_btn{
+        width: 80px;
+        height: 80px;
+        font-size: 40px;
+    }
+    .block_1{
+        background-image: url(/images/Group\ 6.png);
+    }
+    .block_1_top{
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+    .block_1_circle{
+        height: 459px;
+        width: 459px;
+    }
+    .block_1_names{
+        font-size: 58px;
+        line-height: 65px;
+    }
+    .block_1_bottom_text{
+        font-size: 40px;
+        margin-top: 2%;
+    }
+    .block_1_bottom_date{
+        margin-top: 2%;
+        width: 50%;
+    }
+    .block_1_bottom_line_1{
+        font-size: 40px;
+    }
+    .block_1_bottom_line_2_left, .block_1_bottom_line_2_right{
+        font-size: 40px;
+    }
+    .block_1_bottom_line_2_center{
+        font-size: 45px;
+    }
+    .block_1_bottom_line_3{
+        font-size: 38px;
+    }
+    .block_2_text{
+        padding-top: 2%;
+        padding-bottom: 2%;
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    .timer__items {
+        margin-top: 5%;
+        font-size: 48px;
+    }
+    .block_2_bottom{
+        font-size: 40px;
+    }
+    #reg_form{
+        width: 80%;
+    }
+    .wrapper{
+        font-size: 35px;
+    }
+    #name{
+        font-size: 35px;
+    }
+    #surname{
+        font-size: 35px;
+    }
+    select{
+        font-size: 35px;
+    }
+    select>option{
+        font-size: 35px;
+    }
+    .form-row > button {
+        font-size: 35px;
+    }
+    #comment{
+        font-size: 35px;
+    }
+    .form-checkbox{
+        font-size: 35%;
+    }
+    .checkbox.style-f .checkbox__checkmark {
+        height: 30px;
+        width: 30px;
+    }
+    .checkbox.style-f .checkbox__checkmark:after {
+        height: 30px;
+        width: 30px;
+    }
+    .checkbox.style-f .checkbox__body {
+        font-size: 30px;
+    }
+    #block_questions{
+        width: 80%;
+    }
+    .question{
+        font-size: 38px;
+    }
+    .answer{
+        font-size: 30px;
+    }
+    .question img{
+        width: 40px;
+    }
+    .color{
+        width: 100px;
+        height: 100px;
+    }
+    .occasion{
+        font-size: 40px;
+    }
+    .block_5_img img{
+        width: 250px;
+    }
+    .place{
+        font-size: 25px;
+    }
+    .block_5_title{
+        font-size: 32px;
+    }
+}
